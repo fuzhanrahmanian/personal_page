@@ -21,6 +21,9 @@ main:
     weight: 32
   - name: Certificates
     url: '#cert'
+    weight: 33
+  - name: Awards
+    url: '#awd'
     weight: 40
   - name: Contact
     url: '#contact'
