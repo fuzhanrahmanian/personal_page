@@ -164,10 +164,10 @@ sections:
       columns: '1'
 
   - block: portfolio
-    id: acc
+    id: awd
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplishments'
+      title: 'Awards'
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
