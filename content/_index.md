@@ -12,33 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Python
-          description: Favourite programming language for everything "Data" 🥇
-          icon: python
-          icon_pack: fab
-        - name: Artificial Intelligence
-          description: Machine learning, deep learning, reinforcment learning and data visualization📊
-          icon: brain
-          icon_pack: fas
-        - name: R
-          description: Second favourite programming language 🥈
-          icon: r-project
-          icon_pack: fab
-        # Empty space for centering the next one
-        - name:  
-          description:  
-          icon: 
-          icon_pack: 
-        - name: git/GitHub/GitLab
-          description: Version control for all the coding projects
-          icon: git
-          icon_pack: fab
 
   - block: experience
+    id: exp
     content:
       title: Experience
       # Date format for experience
@@ -67,6 +43,7 @@ sections:
 
 
   - block: experience
+    id: edu
     content:
       title: Education
       # Date format for experience
@@ -122,17 +99,75 @@ sections:
           date_start: '2016-11-01'
           date_end: '2019-06-30'
           description: |2-
-            *  Functionalizing of cantilever in AFM for Biophysical applications 
+            *  Functionalizing of cantilever in AFM for Biophysical applications
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 
+  - block: features
+    id: skills
+    content:
+      title: Skills
+      items:
+        - name: Python
+          description: Favourite programming language for everything "Data" 🥇
+          icon: python
+          icon_pack: fab
+        - name: Artificial Intelligence
+          description: Machine learning, deep learning, reinforcment learning and data visualization📊
+          icon: brain
+          icon_pack: fas
+        - name: R
+          description: Second favourite programming language 🥈
+          icon: r-project
+          icon_pack: fab
+        # Empty space for centering the next one
+        - name:
+          description:
+          icon:
+          icon_pack:
+        - name: git/GitHub/GitLab
+          description: Version control for all the coding projects
+          icon: git
+          icon_pack: fab
 
-  - block: accomplishments
+  # Publications
+  - block: collection
+    id: pub
+    content:
+      title: Recent Publications
+      text: |2-
+        ### List of all my publicly available publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: cert
+    content:
+      title: Certificates
+      subtitle: A (incomplete) list of all my certificates
+      text: |2-
+        <div style="margin: 10px;">
+          <div class="button-container">
+            <div style="text-align: center;">
+              {{< button relref="/udacity" >}}Udacity{{< /button >}}
+              {{< button relref="/udacity" >}}Other Certificates{{< /button >}}
+            </div>
+          </div>
+        </div>
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
+  - block: portfolio
+    id: acc
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      title: 'Accomplishments'
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -140,33 +175,15 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.udacity.com
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Udacity
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+      filters:
+        folders:
+          - accomplishments
+        exclude_featured: false
     design:
       columns: '1'
+
+
+
   - block: portfolio
     id: projects
     content:
@@ -194,18 +211,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |2-
-        ### List of all my publicly available publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '1'
-      view: citation
+
   - block: contact
     id: contact
     content:
@@ -237,15 +243,5 @@ sections:
           captcha: false
     design:
       columns: '2'
-    
-  - block: markdown
-    id: Certificates
-    content:
-      title: Certificates
-      subtitle: A (incomplete) list of all my certificates
-      text: |2-
-        ![test](/udacity.svg)
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+
 ---

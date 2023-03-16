@@ -1,0 +1,47 @@
+.nav-link {
+    text-decoration: none;
+    &:hover{
+      color: rgb(128, 128, 201) !important;
+    }
+  }
+  .dark .navbar .navbar-nav .nav-link.active {
+    font-weight: bold !important;
+    color: rgb(128, 128, 201) !important;
+}
+
+a.markdown-btn {
+  font-size: inherit;
+  font-family: inherit;
+  color: #b3e2dc;
+  background-color: #11596e;
+  text-align: center;
+  padding: 5px 1em 5px 1em;
+  margin: 10px 3px 10px 3px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  text-align: center;
+  transition: all .2s ease;
+  display: inline-block;
+
+  &:hover{
+    background-color: #40798C;
+    color: #CFE0C3;
+  }
+  &:active {
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+  }
+}
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button-container > div {
+  margin-right: 10px;
+}
