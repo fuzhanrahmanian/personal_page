@@ -45,3 +45,12 @@ a.markdown-btn {
 .button-container > div {
   margin-right: 10px;
 }
+
+.avatar-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.avatar-wrapper .avatar-emoji {
+  right: -50px;
+}
