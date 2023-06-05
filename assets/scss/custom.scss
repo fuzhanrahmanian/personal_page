@@ -12,8 +12,8 @@
 a.markdown-btn {
   font-size: inherit;
   font-family: inherit;
-  color: #b3e2dc;
-  background-color: #11596e;
+  color: #ffffff;
+  background-color: #1565c0;
   text-align: center;
   padding: 5px 1em 5px 1em;
   margin: 10px 3px 10px 3px;
@@ -26,9 +26,9 @@ a.markdown-btn {
   display: inline-block;
 
   &:hover{
-    background-color: #40798C;
-    color: #CFE0C3;
+    background-color: #1b86ff;
   }
+
   &:active {
     text-decoration: none;
     background-color: var(--primary-color);
@@ -53,4 +53,8 @@ a.markdown-btn {
 
 .avatar-wrapper .avatar-emoji {
   right: -50px;
+}
+
+.bio-text {
+  width: 200%; /* or any desired value */
 }

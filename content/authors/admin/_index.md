@@ -72,10 +72,6 @@ social:
     icon_pack: fab
     link: https://twitter.com/fuzhanrahmanian
     label: Follow me on Twitter
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -88,7 +84,6 @@ email: ''
 highlight_name: true
 ---
 
-Fuzhan Rahmanian is a PhD candidate at the PoLiS Cluster of Excellence. 
-Her research focuses on material acceleration and applied electrochemistry through sequential and machine learning algorithms. Different stages of my thesis compromise of hardware interfacing with python and visualization, using robots to perform AI accelerated experiments i.e. through active learning, benchmarking against linear models, and extracting the fundamental knowledge in reduced time over classical high-throughput experimentation for optimization of electrolyte formulations of post-Li ion battery systems.
+My research focuses on material acceleration and applied electrochemistry through sequential and machine learning algorithms. Different stages of my thesis compromise of hardware interfacing with python and visualization, using robots to perform AI accelerated experiments i.e. through active learning, benchmarking against linear models, and extracting the fundamental knowledge in reduced time over classical high-throughput experimentation for optimization of electrolyte formulations of post-Li ion battery systems.
 {style="text-align: justify;"}
 

@@ -32,7 +32,7 @@ sections:
           company_logo: basf
           location: Ludwigshafen
           date_start: '2023-01-01'
-          date_end: '2023-03-31'
+          date_end: '2023-05-31'
           description: |2-
               Responsibilities include:
 
@@ -114,7 +114,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Artificial Intelligence
-          description: Machine learning, deep learning, reinforcment learning and data visualization📊
+          description: Machine learning, deep learning, reinforcment learning
           icon: brain
           icon_pack: fas
         - name: R
@@ -122,14 +122,18 @@ sections:
           icon: r-project
           icon_pack: fab
         # Empty space for centering the next one
-        - name:
-          description:
-          icon:
-          icon_pack:
+        - name: SQL
+          description: Database management and data manipulation
+          icon: database
+          icon_pack: fas
         - name: git/GitHub/GitLab
           description: Version control for all the coding projects
           icon: git
           icon_pack: fab
+        - name: Data Science
+          description: Data cleaning, data wrangling, data visualization, data analysis, data science
+          icon: chart-line
+          icon_pack: fas
 
   # Publications
   - block: collection
@@ -149,13 +153,13 @@ sections:
     id: cert
     content:
       title: Certificates
-      subtitle: A (incomplete) list of all my certificates
+      subtitle: A list of all my certificates
       text: |2-
         <div style="margin: 10px;">
           <div class="button-container">
             <div style="text-align: center;">
               {{< button relref="/udacity" >}}Udacity{{< /button >}}
-              {{< button relref="/udacity" >}}Other Certificates{{< /button >}}
+              {{< button relref="/other" >}}Other Certificates{{< /button >}}
             </div>
           </div>
         </div>
@@ -210,38 +214,5 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/fuzhanrahmanian'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
-
+      flip_alt_rows: false 
 ---
