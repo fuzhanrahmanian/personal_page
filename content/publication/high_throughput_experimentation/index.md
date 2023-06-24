@@ -1,15 +1,15 @@
 ---
 title: "High-throughput experimentation and computational freeway lanes for accelerated battery electrolyte and interface development research"
 authors:
-- admin
 - Benayad Anass
 - Diddens Diddo
+- admin
 - Heuer Andreas
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "2022-05-01T00:00:00Z"
+- "First Author"
+- "Second Author"
+date: "2023-01-18T00:00:00Z"
+order: 6
 doi: " https://doi.org/10.1002/aenm.202102678"
 
 # Schedule page publish date (NOT publication's date).

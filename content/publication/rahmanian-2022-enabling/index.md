@@ -4,7 +4,7 @@ title: 'Enabling Modular Autonomous Feedback-Loops in Materials Science through 
 subtitle: ''
 summary: ''
 authors:
-- Fuzhan Rahmanian
+- admin
 - Jackson Flowers
 - Dan Guevarra
 - Matthias Richter
@@ -13,12 +13,13 @@ authors:
 - John M Gregoire
 - Helge S Stein
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "First Author"
+- "Second Author"
+- "Third Author"
 tags: [laboratory automation, materials acceleration, high-throughput experimentation, data management]
 categories: []
-date: '2022-01-01'
+date: '2023-01-21'
+order: 3
 lastmod: 2023-06-05T10:16:15+02:00
 featured: false
 draft: false

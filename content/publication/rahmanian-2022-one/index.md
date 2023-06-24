@@ -5,19 +5,24 @@ title: One-Shot Active Learning for Globally Optimal Battery Electrolyte Conduct
 subtitle: ''
 summary: 'Conductivity optimization for battery electrolytes is a cumbersome task, especially at different temperatures. Herein optimally high conducting electrolytes for any temperature are discovered through combined high-throughput experimentation and machine learning.'
 authors:
-- Fuzhan Rahmanian
+- admin
 - Monika Vogler
 - Christian Wölke
 - Peng Yan
 - Martin Winter
 - Isidora Cekic-Laskovic
 - Helge S Stein
+author_notes:
+- "First Author"
+- "Second Author"
 tags: []
 categories: []
-date: '2022-01-01'
+order: 2
+date: '2023-01-22'
 lastmod: 2023-06-05T10:43:08+02:00
 featured: false
 draft: false
+doi: https://doi.org/10.26434/chemrxiv-2022-1z8gn
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

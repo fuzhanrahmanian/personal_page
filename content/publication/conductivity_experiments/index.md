@@ -10,8 +10,8 @@ authors:
 - Isidora Cekic-Laskovic
 - Helge Sören Stein
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First Author"
+- "Second Author"
 date: "2023-01-23T00:00:00Z"
 doi: "https://doi.org/10.1038/s41597-023-01936-3"
 

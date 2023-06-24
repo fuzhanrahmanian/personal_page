@@ -26,7 +26,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Scientists Research internship
+        - title: Data Scientist Research internship
           company: BASF AG
           company_url: 'https://www.basf.com/global/en.html'
           company_logo: basf
@@ -36,8 +36,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing a big data system on battery formulation
-              * Designing and training  LSTM Model for battery formulation prediction ond the "quriosity" super computer 
+              * Designing pipeline for electrochemical analysis of battery materials through their SOH
+              * Designing attention-based seq2seq models for battery lifetime prediction
+              * Training using super-computer
     design:
       columns: '1'
 
@@ -69,7 +70,7 @@ sections:
           company_url: 'https://www.hud.ac.uk/'
           company_logo: hudd
           date_start: '2019-09-01'
-          date_end: '2019-09-30'
+          date_end: '2021-09-30'
           description: |2-
             * Thesis on Outlier treatment and efficient synthetic data generation for heart failure
             prediction.
@@ -81,7 +82,7 @@ sections:
           company_url: 'https://www.uni-ulm.de/'
           company_logo: ulm
           date_start: '2018-09-01'
-          date_end: '2019-06-30'
+          date_end: '2019-03-30'
           description: |2-
             *  Functionalizing of cantilever in AFM for Biophysical applications
         - title: Master of Science in Advanced Materials - GPA 1.6 Good
@@ -140,6 +141,8 @@ sections:
     id: pub
     content:
       title: Recent Publications
+      count: 5
+      sort_by: 'Date'
       text: |2-
         ### List of all my publicly available publications
       filters:
