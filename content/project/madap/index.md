@@ -1,8 +1,7 @@
 ---
 title: MADAP
 summary: Modular and Autonomous Data Analysis Platform (MADAP) is a well-documented python package which can be used for electrochmeical data analysis.
-tags:
-  - Deep Learning
+tags: ["deeplearning"]
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

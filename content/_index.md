@@ -57,11 +57,19 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD in Robotics and Automation Engineering
+          company: Technical University of Munich TUM - Catalysis Research Center
+          company_url: 'https://www.crc.tum.de/crc/home/'
+          company_logo: tum
+          date_start: '2020-01-01'
+          date_end: ''
+          description: |2-
+            * Research thesis: Design and Implementation of Enablers in Material Acceleration Platforms for Battery Research"
+        - title: PhD in Robotics and Automation Engineering
           company: Kahrlsrue Institute of technology
           company_url: 'https://www.kit.edu/'
           company_logo: kit
           date_start: '2020-01-01'
-          date_end: ''
+          date_end: '2023-12-31'
           description: |2-
             * Development of an automated material acceleration platform as part of [Big Map](https://www.big-map.eu/)
             * Optimization of electrolyte formulations through active learning algorithms
@@ -209,13 +217,13 @@ sections:
         - name: All
           tag: '*'
         - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+          tag: deeplearning
+        - name: Lifetime Prediction
+          tag: lifetime
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false 
+      flip_alt_rows: true
 ---

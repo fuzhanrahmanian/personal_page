@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate at KIT
+role: PhD Candidate at TUM
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Karlsruhe Institute of Technology (KIT)
-    url: https://www.kit.edu/
+  - name: Technical University of Munich (TUM)
+    url: https://www.crc.tum.de/crc/home/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on material acceleration and applied electrochemistry through sequential and machine learning algorithms. Different stages of my thesis compromise of hardware interfacing with python and visualization, using robots to perform AI accelerated experiments i.e. through active learning, benchmarking against linear models, and extracting the fundamental knowledge in reduced time over classical high-throughput experimentation for optimization of electrolyte formulations of post-Li ion battery systems.

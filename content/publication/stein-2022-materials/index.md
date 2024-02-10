@@ -15,7 +15,6 @@ authors:
 - Stefan Fuchs
 - Nirmal Choudhary
 - Lisa Schroeder
-tags: []
 categories: []
 order: '5'
 date: '2023-01-19'
@@ -37,7 +36,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["madap"]
 publishDate: '2022-10-01'
 publication_types:
 - '2'
