@@ -60,10 +60,10 @@ sections:
           company: Technical University of Munich TUM - Catalysis Research Center
           company_url: 'https://www.crc.tum.de/crc/home/'
           company_logo: tum
-          date_start: '2020-01-01'
+          date_start: '2024-01-01'
           date_end: ''
           description: |2-
-            * Research thesis: Design and Implementation of Enablers in Material Acceleration Platforms for Battery Research"
+            * Research Thesis: Design and Implementation of Enablers in Material Acceleration Platforms for Battery Research"
         - title: PhD in Robotics and Automation Engineering
           company: Kahrlsrue Institute of technology
           company_url: 'https://www.kit.edu/'

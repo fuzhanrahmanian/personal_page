@@ -48,11 +48,18 @@ a.markdown-btn {
 
 .avatar-wrapper {
   display: flex;
-  align-items: center;
+}
+
+#profile > div.avatar-wrapper > img {
+  position: relative;
+  display: flex;
+  max-height: 300px;
+  max-width: 300px;
+  right: 80px;
 }
 
 .avatar-wrapper .avatar-emoji {
-  right: -50px;
+  right: -20px;
 }
 
 .bio-text {
