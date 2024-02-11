@@ -65,3 +65,30 @@ a.markdown-btn {
 .bio-text {
   width: 200%; /* or any desired value */
 }
+
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-lifetime{
+  height: 450px;
+}
+
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-lifetime > div > div > div.col-12.col-md-6.order-first.order-md-2 > a > img{
+  height: 400px;
+  width: 400px;
+}
+
+
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-deeplearning.js-id-featurevis{
+  height: 400px;
+}
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-deeplearning.js-id-featurevis > div > div > div.col-12.col-md-6.order-first{
+  height: 250px;
+}
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-deeplearning.js-id-featurevis > div > div > div.col-12.col-md-6.order-first > a > img{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 200px;
+}
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-labautomation.js-id-maps > div > div > div.col-12.col-md-6.order-first.order-md-2 > a > img{
+  height: 400px;
+  width: 500px;
+}

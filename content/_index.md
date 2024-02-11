@@ -220,6 +220,10 @@ sections:
           tag: deeplearning
         - name: Lifetime Prediction
           tag: lifetime
+        - name: Laboratory Automation
+          tag: labautomation
+        - name: Feature Visualization
+          tag: featurevis
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
