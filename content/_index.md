@@ -34,9 +34,9 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-05-31'
           description: |2-
-              Responsibilities include:
+              Responsibilities included:
 
-              * Designing pipeline for electrochemical analysis of battery materials through their SOH
+              * Designing pipeline for electrochemical analysis of battery state-of-health and state-of-charge prognostics
               * Designing attention-based seq2seq models for battery lifetime prediction
               * Training using super-computer
     design:
@@ -56,23 +56,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD in Robotics and Automation Engineering
+        - title: PhD candidate in Data Science and Robotics
           company: Technical University of Munich TUM - Catalysis Research Center
           company_url: 'https://www.crc.tum.de/crc/home/'
           company_logo: tum
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
-            * Research Thesis: Design and Implementation of Enablers in Material Acceleration Platforms for Battery Research"
-        - title: PhD in Robotics and Automation Engineering
+            * Research Thesis: Design and Implementation of Enablers in Materials Acceleration Platforms for Battery Research"
+        - title: PhD candidate in Robotics and Automation Engineering
           company: Kahrlsrue Institute of technology
           company_url: 'https://www.kit.edu/'
           company_logo: kit
           date_start: '2020-01-01'
           date_end: '2023-12-31'
           description: |2-
-            * Development of an automated material acceleration platform as part of [Big Map](https://www.big-map.eu/)
+            * Development of an automated materials acceleration platform as part of [Big Map](https://www.big-map.eu/)
             * Optimization of electrolyte formulations through active learning algorithms
+            * Optimization of battery health prognostics through time series modelling
         - title: Master of Science in Artificial Intelligence - GPA 0.8 with distiction
           company: University of Huddersfield
           company_url: 'https://www.hud.ac.uk/'
@@ -101,14 +102,14 @@ sections:
           date_end: '2019-06-30'
           description: |2-
             *  Functionalizing of cantilever in AFM for Biophysical applications
-        - title: Bachelor of Science in Biomedical and Mediacal Engeneering - GPA 16.90/20
+        - title: Bachelor of Engineering in Biomedical and Medical Engineering - GPA 16.90/20
           company: Amirkabir University of Technology - Teheran
           company_url: 'https://aut.ac.ir/en'
           company_logo: amkab
           date_start: '2016-11-01'
           date_end: '2019-06-30'
           description: |2-
-            *  Functionalizing of cantilever in AFM for Biophysical applications
+            *  Synthesis and characterization of silver-doped in HA-akermanite nanocomposites
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -119,15 +120,15 @@ sections:
       title: Skills
       items:
         - name: Python
-          description: Favourite programming language for everything "Data" 🥇
+          description: Favorite programming language for everything "Data" 🥇
           icon: python
           icon_pack: fab
         - name: Artificial Intelligence
-          description: Machine learning, deep learning, reinforcment learning
+          description: Machine Learning, Deep Learning, Reinforcement Learning
           icon: brain
           icon_pack: fas
         - name: R
-          description: Second favourite programming language 🥈
+          description: Second favorite programming language 🥈
           icon: r-project
           icon_pack: fab
         # Empty space for centering the next one
@@ -140,7 +141,7 @@ sections:
           icon: git
           icon_pack: fab
         - name: Data Science
-          description: Data cleaning, data wrangling, data visualization, data analysis, data science
+          description: Computer Vision, Statistics, Data Engineering, Pipelines
           icon: chart-line
           icon_pack: fas
 
@@ -218,8 +219,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: deeplearning
-        - name: Lifetime Prediction
-          tag: lifetime
+        - name: Data Analysis
+          tag: dataanalysis
         - name: Laboratory Automation
           tag: labautomation
         - name: Feature Visualization

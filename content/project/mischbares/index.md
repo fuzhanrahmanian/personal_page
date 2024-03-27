@@ -19,11 +19,15 @@ links:
   - icon: youtube
     icon_pack: fab
     name: Video
-    url: 'https://zenodo.org/records/10445749'
+    url: 'https://www.youtube.com/watch?v=dMZlWIy7i5s'
   - icon: book
     icon_pack: fas
     name: Documentation
     url: 'https://fuzhanrahmanian.github.io/MISCHBARES/'
+  - icon: pen
+    icon_pack: fas
+    name: Publication
+    url: 'https://doi.org/10.1039/D3DD00257H'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

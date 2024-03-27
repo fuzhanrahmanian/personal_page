@@ -1,7 +1,7 @@
 ---
 title: ARCANA
 summary: ARCANA is a Python package that implements, an LSTM-based Seq-to-Seq architecture with an integrated attention mechanism, designed for the early-stage analysis and lifecycle monitoring of battery degradation.
-tags: ["lifetime"]
+tags: ["deeplearning"]
 date: '2023-10-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -22,8 +22,12 @@ links:
     url: 'https://basf.github.io/ARCANA/'
   - icon: python
     icon_pack: fab
-    name: Pipy Package
+    name: Pypi Package
     url: 'https://pypi.org/project/arcana-batt/'
+  - icon: pen
+    icon_pack: fas
+    name: Publication
+    url: 'https://chemrxiv.org/engage/chemrxiv/article-details/6576e76dfd283d7904bec035'
 
 
 # Slides (optional).

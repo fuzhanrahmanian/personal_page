@@ -15,7 +15,7 @@ date: '2024-01-01'
 lastmod: 2024-02-10T22:29:56+01:00
 featured: false
 draft: false
-doi: https://doi.org/10.26434/chemrxiv-2024-rb9j7-v2
+doi: https://doi.org/10.1039/D3DD00257H
 order: '1'
 
 # Featured image
@@ -31,12 +31,17 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-02-10T21:29:54.452008Z'
+projects: ["Auto-MISCHBARES"]
+publishDate: '2024-03-21T21:29:54.452008Z'
 publication_types:
 - '2'
-abstract: 'Discoveries of novel electrolyte-electrode combinations require comprehensive structure-property-interface correlations. Herein, we present an autonomous millimeter scale high-throughput battery research system (MISCHBARES) operated by hierarchical autonomous laboratory automation and orchestration (HELAO) which integrates modular research instrumentation and AI control. This paper will present cathode electrolyte interphase (CEI) formation in lithium-ion batteries at various potentials by correlating high-throughput electrochemistry and spectroscopy. We believe quality control and complex data analysis to be the missing puzzle piece towards more complex workflow automation. Auto-MISCHBARES integrates automatic quality control for both hardware and software to ensure high reliability through an on-the-fly fidelity assessment of each individual experiment. Data analysis is achieved through our Modular and Autonomous Data Analysis Platform (MADAP) in our presented platform, which is capable of performing a fully automated analysis of various voltammetry measurements in real-time. Integration of MISCHBARES and MADAP through HELAO enables versatile and complex active learning workflows in the discovery of new materials. We demonstrate this integrated workflow for reliable charging/discharging protocols.'
+abstract: 'Discoveries of novel electrolyte–electrode combinations require comprehensive structure–property–interface correlations. Herein, we present autonomous millimeter scale high-throughput battery research system (Auto-MISCHBARES) operated with an asynchronous web-based orchestration framework that integrates modular research instrumentation designed for autonomous electrochemical experimentation. The platform allows researchers to define a range of experiments with granular parameter control, start the process, and receive a live visualization of measurements through a web-based user interface. This paper presents a proof of concept for cathode electrolyte interphase (CEI) formation in lithium-ion batteries (LiBs) at various potentials, all controlled through Auto-MISCHBARES and correlating its high-throughput electrochemistry results with X-ray photoelectron spectroscopy (XPS) characterization. We believe quality control, complex data analysis, and management to be the missing puzzle pieces toward more complex workflow automation. Auto-MISCHBARES integrates automatic quality control for both hardware and software using AI enablers to ensure high reliability through an on-the-fly fidelity assessment of each experiment. In the presented case study, voltammetry measurements are handled through a modular platform capable of performing fully automated analysis, while data lineage is provided through relational data storage in adherence with Findable, Accessible, Interoperable, and Reusable (FAIR) guidelines, all in real-time. Thus, Auto-MISCHBARES represents a point of contact between the orchestration of automated instrumentation, quality control, real-time data analysis, and management, enabling reproducible and versatile workflows for the discovery of new materials, especially for batteries. We demonstrate this integrated workflow for reliable charging/discharging protocols.'
 tags: [lab automation, data science, material discovery, ai, quality control]
-publication: ''
-url_pdf: 'https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/659aa3fc66c1381729e8c434/original/autonomous-millimeter-scale-high-throughput-battery-research-system-auto-mischbares.pdf'
+publication: '*Digital Discovery - Royal Society of Chemistry*'
+
+links:
+url_pdf: 'https://pubs.rsc.org/en/content/articlepdf/2024/dd/d3dd00257h'
+url_code: 'https://github.com/fuzhanrahmanian/MISCHBARES'
+url_project: 'https://github.com/BIG-MAP'
+url_video: 'https://www.youtube.com/watch?v=dMZlWIy7i5s&t=1216s&ab_channel=FuzhanR'
 ---

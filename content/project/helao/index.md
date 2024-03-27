@@ -16,7 +16,11 @@ links:
     icon_pack: fab
     name: Repository
     url: https://github.com/helgestein/helao-pub
-  - icon: book
+  - icon: youtube
+    icon_pack: fab
+    name: Video
+    url: 'https://www.youtube.com/watch?v=SKA9c8iQJtU&ab_channel=FuzhanR'
+  - icon: pen
     icon_pack: fas
     name: Publication
     url: 'https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202101987'

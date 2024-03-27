@@ -92,3 +92,14 @@ a.markdown-btn {
   height: 400px;
   width: 500px;
 }
+
+#projects > div.container > div > div:nth-child(2) > div.isotope.projects-container.row.js-layout-row.project-showcase > div.col-12.isotope-item.js-id-deeplearning.js-id-featurevis > div > div > div.col-12.col-md-6.order-first > a > img{
+  position: relative;
+  left: 100px;
+  width: 380px;
+}
+
+#pub > div.container > div > div:nth-child(2) > div:nth-child(2) > div.ml-3 > a > img{
+  height: 60px;
+  width: 200px;
+}
