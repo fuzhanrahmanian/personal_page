@@ -56,14 +56,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD candidate in Data Science and Robotics
+        - title: PhD Data Science and Robotics - Summa Cum Laude
           company: Technical University of Munich TUM - Catalysis Research Center
           company_url: 'https://www.crc.tum.de/crc/home/'
           company_logo: tum
           date_start: '2024-01-01'
-          date_end: ''
+          date_end: '2024-07-31'
           description: |2-
-            * Research Thesis: Design and Implementation of Enablers in Materials Acceleration Platforms for Battery Research"
+            * Research Thesis: Design and Implementation of Enablers in Materials Acceleration Platforms for Battery Research [[Media TUM]](https://mediatum.ub.tum.de/1742765)
         - title: PhD candidate in Robotics and Automation Engineering
           company: Kahrlsrue Institute of technology
           company_url: 'https://www.kit.edu/'
@@ -153,7 +153,7 @@ sections:
       count: 5
       sort_by: 'Date'
       text: |2-
-        ### List of all my publicly available publications
+        ### List of all available publications
       filters:
         folders:
           - publication

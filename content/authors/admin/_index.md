@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Fuzhan Rahmanian
+title: Dr.-Ing. Fuzhan Rahmanian
 
 # Full name (for SEO)
 first_name: Rahmanian
-last_name: Fuzahn
+last_name: Dr.-Ing. Fuzhan
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate at TUM
+role: Researcher at TUM
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,7 +65,7 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/fuzhan-rahmanian-79188b172/?originalSubdomain=de
+    link: https://www.linkedin.com/in/dr-ing-fuzhan-rahmanian-79188b172/
     display:
       header: true
   - icon: twitter
