@@ -26,6 +26,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: CTO and Co-Founder
+          company: Accelion
+          company_logo: accelion
+          location: Munich
+          date_start: '2024-10-01'
+          description: |2-
+              Founded a AI-StartUp for building an acceleration platform for improving the battery value chain.
         - title: Data Scientist Research internship
           company: BASF AG
           company_url: 'https://www.basf.com/global/en.html'
@@ -64,6 +71,9 @@ sections:
           date_end: '2024-07-31'
           description: |2-
             * Research Thesis: Design and Implementation of Enablers in Materials Acceleration Platforms for Battery Research [[Media TUM]](https://mediatum.ub.tum.de/1742765)
+            * Led an international collaboration of laboratory automation integrating AIplanners, data analysis, management, and hardware orchestration
+            * Supervision of numerous involved parties and budget requirements and successful contribution to financial grants application
+            * Managed platform development, quality assessment, and deliverable coordination for BIG-MAP work packages
         - title: PhD candidate in Robotics and Automation Engineering
           company: Kahrlsrue Institute of technology
           company_url: 'https://www.kit.edu/'

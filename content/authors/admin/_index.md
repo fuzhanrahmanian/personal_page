@@ -72,6 +72,10 @@ social:
     icon_pack: fab
     link: https://twitter.com/fuzhanrahmanian
     label: Follow me on Twitter
+  - icon: chess
+    icon_pack: fas
+    link: https://bigfive-test.com/de/result/6714b9c75e8a38b534f40048
+    label: 'Personality Test: the Big Five'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -83,7 +87,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-My research focuses on material acceleration and applied electrochemistry through sequential and machine learning algorithms. Different stages of my thesis compromise of hardware interfacing with python and visualization, using robots to perform AI accelerated experiments i.e. through active learning, benchmarking against linear models, and extracting the fundamental knowledge in reduced time over classical high-throughput experimentation for optimization of electrolyte formulations of post-Li ion battery systems.
+Researcher and entrepreneur dedicated to advancing sustainable battery innovation. After earning my PhD with summa cum laude from TU Munich, I founded Accelion to bring AI-driven materials acceleration into real-world applications. I am an interdisciplinary innovator with a passion for coding and learning and love to play piano in my free time. Recently awarded the 2024 ZEISS Women Award for Digital Research, I’m excited about building interdisciplinary teams to drive energy storage forward. Let's connect and collaborate to shape a more sustainable future!
 {style="text-align: justify;"}
 
