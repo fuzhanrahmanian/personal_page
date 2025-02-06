@@ -26,13 +26,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CTO and Co-Founder
-          company: Accelion
+        - title: CEO and Co-Founder
+          company: AccelionTech
           company_logo: accelion
           location: Munich
-          date_start: '2024-10-01'
+          date_start: '2025-01-01'
           description: |2-
-              Founded a AI-StartUp for building an acceleration platform for improving the battery value chain.
+              Entrapeneur in residence for an AI startup  for building an acceleration platform for improving the battery value chain @Tum Venture Lab.
+        - title: AI Research Scientist
+          company: TUMInt Energy GmbH
+          company_logo: tumint
+          location: Munich
+          date_start: '2025-01-01'
         - title: Data Scientist Research internship
           company: BASF AG
           company_url: 'https://www.basf.com/global/en.html'
@@ -63,12 +68,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher in Data Science and AI for solid state battery electrolytes
+          company: Technical University of Munich TUM
+          company_url: 'https://www.crc.tum.de/crc/home/'
+          company_logo: tum
+          date_start: '2024-07-01'
         - title: PhD Data Science and Robotics - Summa Cum Laude
           company: Technical University of Munich TUM - Catalysis Research Center
           company_url: 'https://www.crc.tum.de/crc/home/'
           company_logo: tum
           date_start: '2024-01-01'
-          date_end: '2024-07-31'
+          date_end: '2024-06-30'
           description: |2-
             * Research Thesis: Design and Implementation of Enablers in Materials Acceleration Platforms for Battery Research [[Media TUM]](https://mediatum.ub.tum.de/1742765)
             * Led an international collaboration of laboratory automation integrating AIplanners, data analysis, management, and hardware orchestration
@@ -134,7 +144,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Artificial Intelligence
-          description: Machine Learning, Deep Learning, Reinforcement Learning
+          description: Machine Learning, Deep Learning, Reinforcement Learning, GenAI
           icon: brain
           icon_pack: fas
         - name: R
