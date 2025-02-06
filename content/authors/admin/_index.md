@@ -53,11 +53,6 @@ social:
     link: https://github.com/fuzhanrahmanian
     display:
       header: true
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=TqswtToAAAAJ
