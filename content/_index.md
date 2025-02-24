@@ -32,7 +32,7 @@ sections:
           location: Munich
           date_start: '2025-01-01'
           description: |2-
-              Entrapeneur in residence for an AI startup  for building an acceleration platform for improving the battery value chain @Tum Venture Lab.
+              Entrepreneur in residence for an AI startup  for building an acceleration platform for improving the battery value chain @Tum Venture Lab.
         - title: AI Research Scientist
           company: TUMInt Energy GmbH
           company_logo: tumint
