@@ -37,7 +37,7 @@ sections:
           company: TUMInt Energy GmbH
           company_logo: tumint
           location: Munich
-          date_start: '2025-01-01'
+          date_start: '2025-03-01'
         - title: AI Research Scientist
           company: TUMInt Energy GmbH
           company_logo: tumint
