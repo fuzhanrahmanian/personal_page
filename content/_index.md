@@ -26,18 +26,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO and Co-Founder
-          company: AccelionTech
-          company_logo: accelion
+        - title: Entrapeneur in Residence
+          company: Tum Venture Lab
+          company_logo: tumventure
           location: Munich
           date_start: '2025-01-01'
           description: |2-
               Entrepreneur in residence for an AI startup  for building an acceleration platform for improving the battery value chain @Tum Venture Lab.
+        - title: Program Manager - Battery Technology Expert
+          company: TUMInt Energy GmbH
+          company_logo: tumint
+          location: Munich
+          date_start: '2025-01-01'
         - title: AI Research Scientist
           company: TUMInt Energy GmbH
           company_logo: tumint
           location: Munich
           date_start: '2025-01-01'
+          date_end: '2025-03-01'
         - title: Data Scientist Research internship
           company: BASF AG
           company_url: 'https://www.basf.com/global/en.html'
