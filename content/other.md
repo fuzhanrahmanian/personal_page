@@ -10,6 +10,13 @@ sections:
     content:
       title: Other Certificates
       items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/W1QXHPNM6AE2
+          date_start: '2025-02-01'
+          description: 'This course demystifies Agentic AI, explains how these agents work and how to design them to suit companies needs. '
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Agentic AI and AI Agents: A Primer for Leaders'
+          url: 'https://www.coursera.org/learn/agentic-ai'
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/HAMUWG4VWHKZ
           date_start: '2022-10-05'
           description: 'This course is designed for learners with limited coding experience, providing a solid foundation of not just python, but core Computer Science topics that can be transferred to other languages.'

@@ -82,6 +82,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Researcher and entrepreneur dedicated to advancing sustainable battery innovation. After earning my PhD with summa cum laude from TU Munich, I dedicating my time to bring AI-driven battery production into real-world applications with AccelionTech. I am an interdisciplinary innovator with a passion for coding and learning and love to play piano in my free time. Recently awarded the 2024 ZEISS Women Award for Digital Research, I’m excited about building interdisciplinary teams to drive energy storage forward. Let's connect and collaborate to shape a more sustainable future!
+Researcher and entrepreneur dedicated to advancing sustainable battery innovation. After earning my PhD with summa cum laude from TU Munich, I dedicating my time to bring AI-driven battery production into real-world applications. I am an interdisciplinary innovator with a passion for coding and learning and love to play piano in my free time. Recently awarded the 2024 ZEISS Women Award for Digital Research, I’m excited about building interdisciplinary teams to drive energy storage forward. Let's connect and collaborate to shape a more sustainable future!
 {style="text-align: justify;"}
 

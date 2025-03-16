@@ -79,6 +79,7 @@ sections:
           company_url: 'https://www.crc.tum.de/crc/home/'
           company_logo: tum
           date_start: '2024-07-01'
+          date_end: '2024-12-31'
         - title: PhD Data Science and Robotics - Summa Cum Laude
           company: Technical University of Munich TUM - Catalysis Research Center
           company_url: 'https://www.crc.tum.de/crc/home/'
